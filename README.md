@@ -17,4 +17,4 @@ The way it works now is that instead of going through all the optimals paths
 "one step at a time" it goes through the first one found until it's not optimal  
 then it switches to the second one and so on. So if the last path found is the   
 shortest one, then both version are similar or the same. But if any of the previous  
-ones is the shortest, it checks the paths only up to that one
+ones is the shortest, then it's that many paths not searched through
