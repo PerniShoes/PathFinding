@@ -5,7 +5,7 @@ Other files used are the same as in the previous projects, specifically:
 
 Original video showcase:  
 https://www.youtube.com/watch?v=ChtlBH_61W8  
-Quick bug fix + improved algorithm
+Improved algorithm and a small bug fix:  
 https://www.youtube.com/watch?v=1MXiVquZZWY  
 
 Comparision of the first version of the algorithm:  
